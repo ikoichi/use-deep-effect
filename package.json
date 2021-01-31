@@ -1,6 +1,6 @@
 {
   "name": "use-deep-effect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Hook useDeepEffect",
   "author": "Luca Restagno <ikoichi2112@gmail.com>",
   "main": "dist/useDeepEffect.js",

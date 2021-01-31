@@ -22,8 +22,7 @@
   },
   "scripts": {
     "test": "jest --silent",
-    "build": "tsc",
-    "postinstall": "husky install"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

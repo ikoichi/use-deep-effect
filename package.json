@@ -1,8 +1,8 @@
 {
-  "name": "@ikoichi/use-deep-effect",
+  "name": "@lucarestagno/use-deep-effect",
   "version": "1.0.2",
   "description": "React Hook useDeepEffect",
-  "author": "Luca Restagno <ikoichi2112@gmail.com>",
+  "author": "Luca Restagno <luca.restagno@gmail.com>",
   "main": "dist/useDeepEffect.js",
   "dependencies": {
     "fast-deep-equal": "^3.1.3",

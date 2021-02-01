@@ -4,6 +4,14 @@
   "description": "React Hook useDeepEffect",
   "author": "Luca Restagno <luca.restagno@gmail.com>",
   "main": "dist/useDeepEffect.js",
+  "types": "dist/useDeepEffect.d.ts",
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
+  },
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "fast-deep-equal": "^3.1.3",
     "@types/react": "^17.0.0"
@@ -30,7 +38,7 @@
     "type": "git",
     "url": "git+https://github.com/ikoichi/use-deep-effect.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ikoichi/use-deep-effect/issues"
   },

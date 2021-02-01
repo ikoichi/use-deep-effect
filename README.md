@@ -2,9 +2,9 @@
 
 React `useEffect` is built to work with primitive values in the dependencies array.
 
-It could happen that in your reach application you need to run side effects based on complex objects (`Object`s, `Array`s, `Set`s, `Map`s).
+It could happen that in your reach application you need to run side effects based on complex objects (`Object`s, `Array`s, `Set`s, `Map`s).
 
-In all these cases, you can use `useDeepEffect`.
+In all these cases, you can use `useDeepEffect`.
 
 ## Installation 
 

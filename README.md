@@ -9,7 +9,7 @@ In all these cases, you can use `useDeepEffect`.
 ## Installation 
 
 ```shell
-npm i use-deep-effect
+npm i @lucarestagno/use-deep-effect
 ```
 
 ## Usage
